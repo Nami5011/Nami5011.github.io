@@ -17,6 +17,12 @@
       "day": "March 2nd at 3:00pm",
       "reminder": false,
       "id": 5
+    },
+    {
+      "text": "Meeting",
+      "day": "March 1st at 2:30pm",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
